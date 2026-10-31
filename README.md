@@ -1,2 +1,2 @@
 # snowglobe
-Shake a snowglobe, get a kind message!1
+Shake a snowglobe, get a kind message!
